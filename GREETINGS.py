@@ -1,0 +1,4 @@
+first_name = input("Enter your first name:")
+second_name = input("Enter your second name:")
+
+print("hello, " + first_name + " " + second_name +"! Welocome to python programj")
